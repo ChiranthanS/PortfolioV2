@@ -3,7 +3,7 @@
 
 <br/>
 <div align="center">
-  <img alt="Demo" src="" />
+  <img alt="Demo" src="https://github.com/ChiranthanS/PortfolioV2/blob/main/Thumbnail.png" />
 </div>
 <br/>
 <br/>
