@@ -28,7 +28,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://www.dropbox.com/scl/fi/ef6hmrk3l6fgqja86l61k/Chiranthan_Shadaksharaswamy_resume.pdf?rlkey=b36xh7tf6fppyyyq1zzw73zw6&st=7nuy37nw&dl=0"
+            href="https://www.dropbox.com/scl/fi/ef6hmrk3l6fgqja86l61k/Chiranthan_Shadaksharaswamy_resume.pdf?rlkey=b36xh7tf6fppyyyq1zzw73zw6&st=sfoa9p4i&dl=0"
             target="_blank"
             rel="noopener noreferrer"
           >
